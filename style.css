@@ -22,6 +22,12 @@ buttn{
 .lee-chong{
 
     color: aqua;
+}
+div{
+display: flex;
+flex-direction: row-reverse;
+flex-wrap: wrap;
+justify-content:center;
 
 
 
