@@ -36,8 +36,15 @@ size: 65px;
 text-shadow: 23px;
 color: dark blue;
 
+}
+image {
+
+border: 3cm;
+border-color: bisque;
+display: flex;
+
+
 
 }
-
 
 
