@@ -19,7 +19,7 @@ buttn{
     border: #ffff;
 
 }
-.lee-chong{
+. lee-chong{
 
     color: aqua;
 }
@@ -29,10 +29,15 @@ flex-direction: row-reverse;
 flex-wrap: wrap;
 justify-content:center;
 
+}
+. background-life-of-the-lee-chong-wei{
+
+size: 65px;
+text-shadow: 23px;
+color: dark blue;
 
 
 }
-
 
 
 
