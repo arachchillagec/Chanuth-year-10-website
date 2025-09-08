@@ -38,14 +38,13 @@ text-shadow: 23px;
 color: dark blue;
 
 }
-image {
+img:hover{
 
 border: 10cm;
 border-color:white;
 display: flex;
 transform: scale(1.1);
 transition: 0.3;
-
 
 }
 
