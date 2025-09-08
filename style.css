@@ -13,9 +13,10 @@ body{
 
 p{
     color: #ffff;
+
 }
 
-buttn{
+button{
     border: #ffff;
 
 }
@@ -42,7 +43,8 @@ image {
 border: 10cm;
 border-color:white;
 display: flex;
-
+transform: scale(1.1);
+transition: 0.6;
 
 
 }
