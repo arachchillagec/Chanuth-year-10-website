@@ -47,5 +47,13 @@ transform: scale(1.1);
 transition: 0.3;
 
 }
+h3{
+color: white;
+text-decoration: underline;
+border: 1cm;
+box-shadow: #faf7f7;
 
+
+
+}
 
