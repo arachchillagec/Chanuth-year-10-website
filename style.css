@@ -43,8 +43,7 @@ img:hover{
 border: 10cm;
 border-color:white;
 display: flex;
-transform: scale(1.1);
-transition: 0.3;
+
 
 }
 h3{
